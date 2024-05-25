@@ -1,6 +1,6 @@
-# Hardware Setup - Tamiya TT02
+# Hardware Setup - Tamiya 
 
-Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've finished, move on to the [software setup](../software_setup.md).
+Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've finished, move on to the [software setup].
 
 ## Tools
 
@@ -21,7 +21,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 <img src="https://user-images.githubusercontent.com/25759564/62111662-e5e5e280-b265-11e9-8c53-ccee8594cde5.png" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/62111794-3bba8a80-b266-11e9-8cda-189fdbcc2dde.png" height=128/>
 
-1. Attach the jig on TT-02's "Lower deck" chassis ([Item #51532](https://www.tamiyausa.com/shop/spare-parts/rc-tt02-lower-deck/))
+1. Attach the jig on TT-02's "Lower deck" chassis 
 
 2. Align the jig to chassis holes. Use tapes to secure it
 3. Use a ``3mm`` drill bit to drill 4 holes 
@@ -243,9 +243,4 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 
 ## Hardware setup complete!
 
-<a></a>
-<img src="https://user-images.githubusercontent.com/25759564/62125318-a88f4e00-b281-11e9-8f49-3857a620968c.png" height=360/>
 
-## Next
-
-Next, follow the [software setup](../software_setup.md).
